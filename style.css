@@ -94,6 +94,9 @@ body {
     left: 20px;
 }
 
+
+
+
 #mobile{
     display: none;
     align-items: center;
@@ -458,6 +461,12 @@ body {
     border-bottom-right-radius: 4px;
     width: 25%;
 }
+
+#newsletter button:hover{
+        background: #000000;
+        color: #088178;
+    }
+
 
 footer{
     display: flex;
